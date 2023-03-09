@@ -1,0 +1,11 @@
+{
+    "amount": "30.0",
+    "currency": "EUR",
+    "externalId": "123df56we95",
+    "payer": {
+        "partyIdType": "MSISDN",
+        "partyId": "+22985456232"
+        },
+    "payerMessage": "Hello payer",
+    "payeeNote": "Hi payee"
+}
